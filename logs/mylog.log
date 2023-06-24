@@ -1,0 +1,106 @@
+[INFO ] 2023-06-07 16:54:01.301 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-07 16:54:01.363 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-07 16:54:05.391 [main] stepdef - url opened
+[INFO ] 2023-06-07 16:54:11.015 [main] stepdef - email and password entered
+[INFO ] 2023-06-07 16:54:23.989 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-07 16:54:30.138 [main] stepdef - page title is verified
+[INFO ] 2023-06-07 16:54:35.736 [main] stepdef - page title is verified
+[INFO ] 2023-06-07 16:54:40.913 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-07 16:54:40.916 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-07 16:54:44.848 [main] stepdef - url opened
+[INFO ] 2023-06-07 16:54:50.540 [main] stepdef - email and password entered
+[INFO ] 2023-06-07 16:54:53.945 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:00:42.473 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-08 08:00:42.516 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:00:45.963 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:00:51.757 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 08:01:09.550 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:01:13.710 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 08:01:30.439 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 08:01:36.694 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-08 08:01:36.697 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:01:39.641 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:01:45.296 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 08:01:47.270 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:03:46.440 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-08 08:03:46.487 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:03:49.143 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:03:54.826 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 08:04:11.371 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:04:17.598 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 08:07:42.195 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-08 08:07:42.235 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:07:44.895 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:07:50.515 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 08:08:06.102 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:08:12.770 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 08:08:37.368 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-08 08:08:37.407 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:08:39.656 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:15:50.275 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-08 08:15:50.349 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 08:15:51.575 [main] stepdef - url opened
+[INFO ] 2023-06-08 08:15:55.803 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 08:15:58.504 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 08:16:00.542 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 08:16:03.670 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 16:24:46.621 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-08 16:24:46.654 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 16:24:49.933 [main] stepdef - url opened
+[INFO ] 2023-06-08 16:24:55.799 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 16:25:16.529 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 16:25:22.475 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 16:25:35.885 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 16:32:41.057 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-08 16:32:41.096 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-08 16:32:43.962 [main] stepdef - url opened
+[INFO ] 2023-06-08 16:32:49.673 [main] stepdef - email and password entered
+[INFO ] 2023-06-08 16:33:12.445 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-08 16:33:22.246 [main] stepdef - page title is verified
+[INFO ] 2023-06-08 16:33:30.743 [main] stepdef - page title is verified
+[INFO ] 2023-06-19 10:16:59.126 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-19 10:16:59.167 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 10:17:04.694 [main] stepdef - url opened
+[INFO ] 2023-06-19 10:17:10.002 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 10:17:32.802 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 10:17:38.229 [main] stepdef - page title is verified
+[INFO ] 2023-06-19 10:17:48.783 [main] stepdef - page title is verified
+[INFO ] 2023-06-19 16:23:44.872 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-19 16:23:45.000 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:23:49.173 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:23:54.638 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 16:24:11.271 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 16:24:50.805 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-19 16:24:50.807 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:24:53.460 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:24:59.261 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 16:25:14.107 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 16:25:35.033 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:25:40.250 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-19 16:25:40.252 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:25:42.271 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:25:47.042 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-19 16:25:47.045 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:25:50.492 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:25:56.357 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-19 16:25:56.358 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:25:58.851 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:29:25.807 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-19 16:29:25.859 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:29:29.353 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:29:34.947 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 16:29:52.189 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 16:30:30.186 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-19 16:30:30.187 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:30:33.152 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:30:39.326 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 16:30:57.659 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 16:31:39.383 [main] stepdef - ===setup2_executed===
+[INFO ] 2023-06-19 16:31:39.445 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:31:42.926 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:31:48.535 [main] stepdef - email and password entered
+[INFO ] 2023-06-19 16:32:07.543 [main] stepdef - Login button clicked 
+[INFO ] 2023-06-19 16:33:25.709 [main] stepdef - ===Setup1_Executed====
+[INFO ] 2023-06-19 16:33:25.710 [main] stepdef - chrome browser launched
+[INFO ] 2023-06-19 16:33:28.751 [main] stepdef - url opened
+[INFO ] 2023-06-19 16:33:34.249 [main] stepdef - email and password entered
